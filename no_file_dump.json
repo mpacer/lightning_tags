@@ -1,0 +1,7 @@
+{
+  "TagRemovePreprocessor": {
+    "remove_output_tags": ["file_dump"],
+    "remove_input_tags": ["imports", "cleanup"],
+    "remove_cell_tags": ["nbconvert"]
+  }
+}
